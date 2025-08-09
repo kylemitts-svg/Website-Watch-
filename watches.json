@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "rolex-cosmograph-daytona-126500ln-black-oysterflex",
+    "name": "Rolex Cosmograph Daytona",
+    "reference": "126500LN",
+    "variant": "Black Dial, Oysterflex",
+    "brand": "Rolex",
+    "size_mm": "40",
+    "status": "Confirmed"
+  },
+  {
+    "slug": "rolex-cosmograph-daytona-16520-white-zenith",
+    "name": "Rolex Cosmograph Daytona",
+    "reference": "16520",
+    "variant": "White Dial (\u201cZenith\u201d), Steel Bezel, Oyster",
+    "brand": "Rolex",
+    "size_mm": "40",
+    "status": "Confirmed"
+  },
+  {
+    "slug": "rolex-cosmograph-daytona-126500ln-black-oyster",
+    "name": "Rolex Cosmograph Daytona",
+    "reference": "126500LN",
+    "variant": "Black Dial, Oyster",
+    "brand": "Rolex",
+    "size_mm": "40",
+    "status": "Confirmed"
+  },
+  {
+    "slug": "rolex-datejust-41-126300-silver-smooth-oyster",
+    "name": "Rolex Datejust 41",
+    "reference": "126300",
+    "variant": "Smooth Bezel, Silver Dial, Oyster",
+    "brand": "Rolex",
+    "size_mm": "41",
+    "status": "Confirmed"
+  },
+  {
+    "slug": "a-lange-soehne-lange-1-101035-platinum-black-darth",
+    "name": "Lange 1",
+    "reference": "101.035",
+    "variant": "Platinum, Black Dial (\u201cDarth\u201d)",
+    "brand": "A. Lange & S\u00f6hne",
+    "size_mm": "38.5",
+    "status": "Confirmed"
+  },
+  {
+    "slug": "rolex-oyster-perpetual-36-celebration-dial",
+    "name": "Oyster Perpetual 36",
+    "reference": "\u2014",
+    "variant": "\u201cCelebration\u201d Multicolor Bubbles Dial",
+    "brand": "Rolex",
+    "size_mm": "36",
+    "status": "Confirmed"
+  },
+  {
+    "slug": "a-lange-soehne-chronograph-to-confirm",
+    "name": "A. Lange & S\u00f6hne Chronograph",
+    "reference": "\u2014",
+    "variant": "Datograph or 1815 Chronograph (to confirm)",
+    "brand": "A. Lange & S\u00f6hne",
+    "size_mm": "\u2014",
+    "status": "To Confirm"
+  },
+  {
+    "slug": "breitling-top-time-810-mk2-panda",
+    "name": "Top Time",
+    "reference": "810 Mk 2",
+    "variant": "Panda Dial",
+    "brand": "Breitling",
+    "size_mm": "38 (vintage ~38\u201338.5)",
+    "status": "Confirmed"
+  },
+  {
+    "slug": "iwc-pilots-chronograph-top-gun-mojave",
+    "name": "Pilot\u2019s Watch Chronograph Top Gun \u201cMojave Desert\u201d",
+    "reference": "IW389103 / family",
+    "variant": "Sand Ceramic, Brown Dial",
+    "brand": "IWC",
+    "size_mm": "44.5",
+    "status": "Confirmed"
+  },
+  {
+    "slug": "cartier-santos-medium",
+    "name": "Santos de Cartier Medium",
+    "reference": "\u2014",
+    "variant": "Steel, Roman Numerals, Exposed Screws",
+    "brand": "Cartier",
+    "size_mm": "M (35.1 x 41.9)",
+    "status": "Confirmed"
+  }
+]
